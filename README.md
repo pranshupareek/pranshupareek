@@ -22,7 +22,8 @@
   <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/> 
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=pranshupareek&show_icons=true" alt="pranshupareek"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=pranshupareek&show_icons=true&count_private=true" alt="pranshupareek"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshupareek">
 </p>
 
 <p align="center">
