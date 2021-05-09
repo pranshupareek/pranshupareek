@@ -24,6 +24,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=pranshupareek&show_icons=true&count_private=true" alt="pranshupareek"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshupareek">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshupareek">
 </p>
 
 <p align="center">
