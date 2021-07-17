@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranshu Pareek</h1>
-<h3 align="center">Competitive Programmer | Backend Developer | Developer Student Clubs Lead</h3>
+<h3 align="center">Competitive Programmer | Backend Developer | Former Google Developer Student Clubs Lead</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshupareek&color=green&style=flat-square" alt="pranshupareek" /> </p>
 
