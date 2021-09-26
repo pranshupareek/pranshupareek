@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshupareek&color=green&style=flat-square" alt="pranshupareek" /> </p>
 
-- 💬 Ask me about **NodeJS, Data Structures and Algorithms**
+- 💬 Ask me about **Java, Data Structures and Algorithms**
 
 - 📫 How to reach me **pranshupareek47@gmail.com**
 
