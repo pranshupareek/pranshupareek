@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranshu Pareek</h1>
-<h3 align="center">Software Development Intern @ <a href="https://netmeds.com">Netmeds.com</a> | 4 ⭐ @ Codechef | GFG rank 2 out of 355 (Institute) | Former Google DSC Lead @ UIET KUK</h3>
+<h3 align="center">Software Development Intern @ <a href="https://netmeds.com">Netmeds.com</a> | 4 ⭐ @ Codechef | GFG rank 1 out of 362 (Institute) | Former Google DSC Lead @ UIET KUK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshupareek&color=green&style=flat-square" alt="pranshupareek" /> </p>
 
